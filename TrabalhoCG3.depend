@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1464611121 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\buffer.cpp
+	"buffer.h"
+
+1463676046 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\buffer.h
+	"colorVector.h"
+	<cstdlib>
+
+1464580433 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\colorvector.h
+
+1465066750 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\close2gl.cpp
+	"close2gl.h"
+
+1464663032 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\close2gl.h
+	"filereader.h"
+	"camera.h"
+	"triangle.h"
+	"matrix4x4.h"
+	"buffer.h"
+	"light.h"
+	"pixelLine.h"
+	<vector>
+	<math.h>
+	<GL/glui.h>
+	"Texture.h"
+
+1464657710 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\filereader.h
+	<fstream>
+	<iostream>
+	<vector>
+	<cmath>
+	"triangle.h"
+	<cfloat>
+	<GL/glui.h>
+
+1463971673 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\triangle.h
+	"vector3f.h"
+
+1464152254 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\vector3f.h
+	<cmath>
+
+1464613811 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\camera.h
+
+1464612946 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\matrix4x4.h
+	"vector3f.h"
+
+1463971717 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\light.h
+	"vector3f.h"
+	"colorVector.h"
+
+1463971724 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\pixelline.h
+	"colorVector.h"
+	"vector3f.h"
+	<math.h>
+
+1464580433 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\colorvector.cpp
+	"colorVector.h"
+
+1464657677 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\filereader.cpp
+	"filereader.h"
+	"vector3f.h"
+	"triangle.h"
+
+1461586420 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\light.cpp
+	"light.h"
+
+1465339957 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\main.cpp
+	<string.h>
+	<GL/glui.h>
+	<math.h>
+	<jpeglib.h>
+	<jerror.h>
+	<jconfig.h>
+	<jmorecfg.h>
+	"filereader.h"
+	"close2gl.h"
+	"Texture.h"
+
+1464317062 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\pixelline.cpp
+	"pixelLine.h"
+
+1465066797 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\texture.cpp
+	"texture.h"
+
+1464664136 e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\texture.h
+	<cstdlib>
+	"colorVector.h"
+	<cmath>
+	<GL/glui.h>
+	<vector>
+	"vector3f.h"
+
+1463699595 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\triangle.cpp
+	"triangle.h"
+
+1463878110 source:e:\ufrgs\nono semestre\computação gráfica\trabalhocg3\vector3f.cpp
+
